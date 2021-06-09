@@ -1,4 +1,6 @@
 #!/usr/bin/python3
 
-print("Hello World")
-# this is a test
+def main(msg):
+    print(msg)
+
+main("Hello People")
