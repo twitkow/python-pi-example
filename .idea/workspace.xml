@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e74d9bf6-3b4e-4cab-96b7-ca611283c098" name="Default Changelist" comment="">
+    <list default="true" id="e74d9bf6-3b4e-4cab-96b7-ca611283c098" name="Default Changelist" comment="git commit -m &quot;This is a new note&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +37,14 @@
       <option name="presentableId" value="Default" />
       <updated>1623270868041</updated>
     </task>
+    <task id="LOCAL-00001" summary="git commit -m &quot;This is a new note&quot;">
+      <created>1623336930344</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623336930344</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -52,5 +61,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="git commit -m &quot;This is a new note&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit -m &quot;This is a new note&quot;" />
   </component>
 </project>
